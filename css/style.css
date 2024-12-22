@@ -845,6 +845,9 @@ header .ham-burger.active span:nth-child(2) {
 @media (max-width: 991px) {
   .home {
     background-position: center;
+    background: url("https://images.unsplash.com/photo-1624513764370-f29d72dc4e19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGd5bSUyMGdpcmx8ZW58MHx8MHx8fDA%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .classes .content {
     flex-wrap: wrap;
